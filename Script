@@ -1,0 +1,18 @@
+local garbage = {
+    "caca";
+    "Someone stomp me please";
+    "1v1";
+    "Someone kill me please";
+    "Dog Water";
+    "I exploit 😎";
+    "Hi Dad";
+}
+
+
+
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(
+        garbage[math.random(1,#garbage)],
+        "All"
+    )
+ 
+game:GetService("UserInputService").InputBegan:connect(TrashTalk)
