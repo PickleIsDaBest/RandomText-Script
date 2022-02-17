@@ -1,6 +1,6 @@
 local garbage = {
     "caca";
-    "1v1";
+    "Bald";
     "Dog Water";
     "Get locked on";
     "Hi Dad";
@@ -35,7 +35,18 @@ local garbage = {
     "Get good";
     "Skill Issue?";
     "I use lock ig";
-    "I'll get banned if I abuse";
+    "I win";
+    "You lose";
+    "Try next time";
+    "A 5 month old baby could do better than you";
+    "Squeeze some lemons in your eyes";
+    "Go home. Oh wait-";
+    "Hey son";
+    "Come back";
+    "No btcs?";
+    "It's the aim for me.";
+    "You tried but yet failed";
+    "Maybe next time you should try";
 }
 
 
